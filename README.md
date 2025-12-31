@@ -44,9 +44,12 @@ Notebook ini berfokus pada eksplorasi data (EDA) dan simulasi implementasi di du
 
 Berdasarkan hasil pengujian pada *Test Set* (10% data terpisah):
 
+<img width="1545" height="898" alt="image" src="https://github.com/user-attachments/assets/c15f1327-6821-44e8-ba46-b5871836aae6" />
+
+
 | Metric | Hasil | Keterangan |
 | :--- | :--- | :--- |
-| **Akurasi** | **84.99%** | Model mampu memprediksi sentimen dengan sangat tepat. |
+| **Akurasi** | **84%** | Model mampu memprediksi sentimen dengan sangat tepat. |
 | **AUC Score** | **~0.92** | Kemampuan membedakan kelas positif/negatif sangat baik. |
 | **Distribusi Kelas** | **Balanced** | Negatif (49.96%) vs Positif (50.04%). |
 
