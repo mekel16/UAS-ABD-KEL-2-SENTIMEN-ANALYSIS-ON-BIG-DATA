@@ -80,7 +80,7 @@ Berdasarkan hasil pengujian pada *Test Set* (10% data terpisah):
     ```
 
 3.  **Eksekusi:**
-    * Jalankan `(Clone) Projek ABD 2.ipynb` terlebih dahulu untuk melatih model dan menghasilkan data bersih.
+    * Jalankan `Machine Learning modeling Pyspark-Group2.ipynb` terlebih dahulu untuk melatih model dan menghasilkan data bersih.
     * Jalankan `Data Analisis.ipynb` untuk melihat insight bisnis dan simulasi caching Redis.
 
 ---
