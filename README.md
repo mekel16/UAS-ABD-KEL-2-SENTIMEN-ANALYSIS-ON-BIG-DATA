@@ -9,8 +9,9 @@ Proyek ini melakukan analisis sentimen berskala besar terhadap **3.6 juta ulasan
 ## 👥 Tim Penyusun (Kelompok 2)
 
 * **Faiz Dwi Febriansyah** (22031554023)
-* **Riva Dian Ardiansyah** (22031554043)
 * **Michael Luwi Pallea** (22031554055)
+* **Riva Dian Ardiansyah** (22031554043)
+
 
 ---
 
